@@ -1,0 +1,4 @@
+*.tex linguist-documentation
+*.pdf linguist-documentation
+
+*.hs linguist-language=Haskell
